@@ -1,0 +1,21 @@
+#Eclipse project files
+.classpath
+.project
+.settings
+
+# IntelliJ project files
+*.iml
+.idea/
+
+#binary directories
+bin
+target
+build
+.gradle/
+pom.xml.versionsBackup
+
+*.DS_Store
+node_modules
+dist
+package-lock.json
+.vscode
